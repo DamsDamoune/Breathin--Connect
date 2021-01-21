@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Breath\'In Connect</string>
+    <string-array name="medicament">
+        <item>Ventoline</item>
+        <item>Arcospray</item>
+        <item>Beclospray</item>
+    </string-array>
+    <string-array name="dosage">
+        <item>100ml</item>
+        <item>200ml</item>
+        <item>300ml</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
